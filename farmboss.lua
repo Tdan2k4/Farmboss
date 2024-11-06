@@ -38,4 +38,4 @@ while true do
         wait(3)  -- Thời gian giữa các đợt farm Boss
     end
 end
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://github.dev/Tdan2k4/Farmboss/blob/main/farmboss.lua"))()
